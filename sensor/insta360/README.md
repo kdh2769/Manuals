@@ -19,11 +19,11 @@ Device environment
 Fisrt Step
 -----------
 
-<figure class="third">
+<p align="center">
   <img src="./images/f_1.jpg" height='165' width ='215'>
   <img src="./images/f_2.jpg" height='165' width ='215'>
   <img src="./images/f_3.jpg" height='165' width ='215'>
-</figure>
+</p>
 
 1. setup ``Insta 360 pro2`` and ``battery``
 2. Open battery socket in Insta 360 pro2 and input battery
