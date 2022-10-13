@@ -19,7 +19,7 @@ Device environment
 Fisrt Step
 -----------
 
-<figure>
+<figure class="third">
   <img src="./images/f_1.jpg" height='165' width ='215'>
   <img src="./images/f_2.jpg" height='165' width ='215'>
   <img src="./images/f_3.jpg" height='165' width ='215'>
