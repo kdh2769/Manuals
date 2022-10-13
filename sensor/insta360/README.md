@@ -20,7 +20,9 @@ Fisrt Step
 -----------
 
 <figure>
-  <img src="./images/f_1.jpg" height='165' width ='220'><img src="./images/f_2.jpg" height='165' width ='220'><img src="./images/f_3.jpg" height='165' width ='220'>
+  <img src="./images/f_1.jpg" height='165' width ='215'>
+  <img src="./images/f_2.jpg" height='165' width ='215'>
+  <img src="./images/f_3.jpg" height='165' width ='215'>
 </figure>
 
 1. setup ``Insta 360 pro2`` and ``battery``
